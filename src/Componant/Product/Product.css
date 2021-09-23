@@ -1,0 +1,19 @@
+.product{
+     display: flex;
+     margin-right: 5px;
+     border-bottom: 1px solid black;
+     justify-content: center;
+     
+}
+.product-name{
+     color: blueviolet;
+}
+
+.button-regular{
+     background-color: goldenrod;
+     width: 150px;
+     height: 25px;
+     border: 1px solid gray;
+     border-radius: 5px;
+     cursor: pointer;
+}

@@ -24,8 +24,6 @@ const Product = (props) => {
                          className="button-regular">{element}add to cart</button>
                </div>
 
-
-
           </div>
      );
 };

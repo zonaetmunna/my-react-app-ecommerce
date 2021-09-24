@@ -1,3 +1,18 @@
+
+/* search container */
+.search-container{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+.search-container input{
+    height: 30px;
+    width: 75%;
+}
+
+
+/* shop container */
 .shop-container{
      display: grid;
      grid-template-columns: 3fr 1fr;
